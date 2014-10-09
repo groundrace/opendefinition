@@ -88,4 +88,4 @@ I diritti relativi all’opera non devono dipendere dal fatto che l’opera sia 
 
 La licenza non deve imporre restrizioni su altre opere distribuite insieme all’opera licenziata. Per esempio, la licenza non deve insistere sul fatto che tutte le altre opere distribuite sullo stesso supporto siano aperte.
 
-*Translated by Primavera De Filippi, Andrea Glorioso and Juan Carlos De Martin at the [NEXA Center for Internet & Society](http://nexa.polito.it/), Politecnico di Torino.*
+
