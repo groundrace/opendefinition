@@ -5,11 +5,26 @@ layout: page
 
 Version: 2.0
 
-Con la denifizione di Conoscenza Aperta si chiarisce il significato del termine "Aperto" in riferimento alla conoscenza,
-sostenendo con forza quella condivisa alla quale chiunque puo' partecipare e dove l'interoperabilita' viene massimizzata. 
+## Introduzione
 
+La definizione di conoscenza aperta chiarisce il significato del termine "Aperta" in riferimento alla conoscenza,
+sostenendo con forza quella condivisa alla quale chiunque puo' partecipare e dove l'interoperabilita' è massimizzata. 
+
+** In breve:. ** * La conoscenza è aperta se chiunque è libero di accedere, usare, modificare e condividere - soggetto, al massimo, a misure che ne preservino la provenienza e le condizioni originali di apertura * 
 **
+
+Il significato essenziale corrisponde a quello del termine "aperto" rispetto al software come nella [Definizione di Sorgente Aperto](http://www.opensource.org/docs/osd) ed è sinonimo di "libero" o "libre", come nella [Definizione di Opere Culturali Libere](http://freedomdefined.org/Definition/It). La definizione di Aperto è stato inizialmente derivata dalla Open Source Definition, a sua volta derivato dal [Il Contratto Sociale Debian](http://www.debian.org/social_contract.it.html).
+
+
 ## Terminologia
+Il termine **lavoro** verrà utilizzato per indicare l'elemento o la parte di conoscenza che viene trasferita. 
+
+Il termine **licenza** si riferisce alle condizioni giuridiche in base alle quali il lavoro è 
+messo a disposizione. Qualora non sia stata specificata una licenza allora ci si riferisce alle condizioni giuridiche generali che disciplinano l'uso delle opere intellettuali (per esempio nel diritto d'autore o il pubblico dominio).
+
+
+
+
 
 Con il termine **conoscenza** si intende:
 
