@@ -5,7 +5,7 @@ layout: page
 
 Version: 2.0
 
-## Introduzione
+## Definizione
 
 La definizione di conoscenza aperta chiarisce il significato del termine "Aperta" in riferimento alla conoscenza,
 sostenendo con forza quella condivisa alla quale chiunque puo' partecipare e dove l'interoperabilita' è massimizzata. 
